@@ -3,12 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://simplesnippets.tech/wp-content/uploads/2021/10/graph-ds-structure-example.jpg" alt="Logo" width="250" height="200">
-  </a>
-
   <h3 align="center">Graph Algorithm Visualizer</h3>
-
   <p align="center">
     A web application to visualize Breadth First Search, Depth First Search and A* Search Algorithm on a grid.
   </p>
