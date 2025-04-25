@@ -41,10 +41,7 @@ User can put obstacles between a source node and destination node over the empty
 <!-- CONTACT -->
 ## Contact
 
-Ritik Arora - [Linkedin](https://www.linkedin.com/in/ritik-arora-49b312197/) - ritikarora656@gmail.com
-
 Hosted Website: [https://visualize-graphically.netlify.app/](https://visualize-graphically.netlify.app/)
 <br>
-Project Link: [https://github.com/Ritik-Arora-576/Graph-Algorithms-Visualizer](https://github.com/Ritik-Arora-576/Graph-Algorithms-Visualizer)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
