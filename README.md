@@ -1,7 +1,6 @@
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <h3 align="center">Graph Algorithm Visualizer</h3>
   <p align="center">
